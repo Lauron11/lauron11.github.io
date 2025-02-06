@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.row{
+    display: flex;
+}
+
+.box1{
+    width: 100%;
+    background-color: aqua;
+}
+
+.box2{
+    width: 100%;
+    height: 50px;
+    background-color:beige;
+}
+
+.box3, .box4{
+    height: 300px;
+}
+
+.box3{
+    background-color: blue;
+}
+
+.box4{
+    background-color:blueviolet;
+}
+
+.box5{
+    height: 150px;
+    background-color:brown;
+}
+.box6{
+    height: 150px;
+    background-color:chartreuse;
+}
+.height1{
+    height: 50px;
+}
+.height2{
+    height: 100px;
+}
+.height3{
+    height: 150px;
+}
+.half{
+    width:50%;
+}
+
+.box7{
+    width: 100%;
+}
+
+.color{
+    background-color:aquamarine;
+}
